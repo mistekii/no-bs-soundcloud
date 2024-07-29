@@ -33,6 +33,7 @@ soundcloud.com##.g-tabs-link[href="https://checkout.soundcloud.com/artist?ref=t7
 soundcloud.com##.g-tabs-link[href="/you/mastering"]
 soundcloud.com##.g-upsell-container
 soundcloud.com##.getHeard__container
+soundcloud.com##.sc-button-tertiary.sc-button-medium.moreActions__button.sc-button.sc-button-distribute-link.sc-button-distribute
 soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-responsive.sc-button-medium.sc-button.sc-button-secondary.sc-button-startstation
 soundcloud.com##.sc-button-tertiary.sc-button-medium.moreActions__button.sc-button.sc-button-secondary.sc-button-startstation
 soundcloud.com##.sc-button-responsive.sc-button-small.sc-button.sc-button-secondary.sc-button-distribute-link.sc-button-distribute
