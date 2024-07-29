@@ -1,0 +1,38 @@
+! soundcloud, with no bullshit
+soundcloud.com##li.mixedModularHome__item > div > .mixedSelectionModule
+soundcloud.com##.artistConnectContainer > .mixedModularHome__item > .mixedSelectionModule
+soundcloud.com##.velvetCakeModule
+soundcloud.com##.whoToFollowModule.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+soundcloud.com##.sc-border-light-bottom.refresh-wtf.sidebar__moreLink.sc-link-primary.sc-link-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.historyModule.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sidebar__moreLink.sc-link-primary.sc-link-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.historyModule.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+soundcloud.com##.mobileApps.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sc-text-primary.sc-type-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.mobileApps.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+soundcloud.com##.header__proUpsell_side_by_side_experience.header__link.sc-link.creatorSubscriptionsButton
+soundcloud.com##.header__goUpsell_side_by_side_experience.header__link
+soundcloud.com##.header__forArtistsButton.header__link
+soundcloud.com##.profileMenu__partnerOffers.headerMenu__link
+soundcloud.com##.profileMenu__premium.headerMenu__link.sc-link.creatorSubscriptionsButton
+soundcloud.com##.profileMenu__distribute.headerMenu__link
+soundcloud.com##.sc-border-light-bottom.refresh-ra.sidebar__moreLink.sc-link-primary.sc-link-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.relatedArtistsModule.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+soundcloud.com##.empty.isMine.spotlight
+soundcloud.com##.quotaMeter__link
+soundcloud.com##.quotaMeter__upsellText
+soundcloud.com##.m-highlight.moreMenu__link.headerMenu__link
+soundcloud.com##.moreMenu__link.headerMenu__link[href="/you/subscriptions?ref=t2207"]
+soundcloud.com##.moreMenu__link.headerMenu__link[href="https://creators.soundcloud.com"]
+soundcloud.com##.moreMenu__link.headerMenu__link[href="/download"]
+soundcloud.com##article.soundInSetsModule.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+soundcloud.com##article.soundInSetsModule.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sidebar__moreLink.sc-link-primary.sc-link-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.relatedSoundsModule.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+soundcloud.com##.relatedSoundsModule.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sidebar__moreLink.sc-link-primary.sc-link-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.profileMenu__friends.headerMenu__link
+soundcloud.com##.profileMenu__stations.headerMenu__link
+soundcloud.com##.g-tabs-link[href="https://checkout.soundcloud.com/artist?ref=t728"]
+soundcloud.com##.g-tabs-link[href="/you/mastering"]
+soundcloud.com##.g-upsell-container
+soundcloud.com##.getHeard__container
+soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-responsive.sc-button-medium.sc-button.sc-button-secondary.sc-button-startstation
+soundcloud.com##.sc-button-tertiary.sc-button-medium.moreActions__button.sc-button.sc-button-secondary.sc-button-startstation
+soundcloud.com##.sc-button-responsive.sc-button-small.sc-button.sc-button-secondary.sc-button-distribute-link.sc-button-distribute
